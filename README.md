@@ -26,8 +26,8 @@ I'm a Computer Science Engineering student with a passion for creativity and tec
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trishal45/Trishal45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trishal45/Trishal45/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Trishal45/Trishal45/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChinniSreya/ChinniSreya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChinniSreya/ChinniSreya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ChinniSreya/ChinniSreya/output/github-snake.svg" />
 </picture>
 
